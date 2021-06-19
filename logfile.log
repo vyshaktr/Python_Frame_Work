@@ -1,0 +1,44 @@
+2021-06-19 19:09:40,026 :INFO : test_signin_launch :Step 1 :Launching amazon website
+2021-06-19 19:09:40,030 :INFO : test_signin_launch :Step 2 :Verification of  tooltip
+2021-06-19 19:09:40,072 :INFO : test_signin_launch :Step 3 :Tool tip Present
+2021-06-19 19:09:42,962 :INFO : test_signin_launch :step 4 :Verifying  amazon title
+2021-06-19 19:09:42,970 :INFO : test_signin_launch :Step 5 :Expected titile is found
+2021-06-19 19:09:51,089 :INFO : test_invalidsignin :Testing invalid username entered for sign in
+2021-06-19 19:09:51,457 :INFO : test_invalidsignin :Step 1 : Launching the website and Clicking on sign in button
+2021-06-19 19:09:54,046 :INFO : test_invalidsignin :Step 2 :Entering invalid username
+2021-06-19 19:12:57,319 :INFO : test_signin_launch :Step 1 :Launching amazon website
+2021-06-19 19:12:57,323 :INFO : test_signin_launch :Step 2 :Verification of  tooltip
+2021-06-19 19:12:57,357 :INFO : test_signin_launch :Step 3 :Tool tip Present
+2021-06-19 19:13:00,254 :INFO : test_signin_launch :step 4 :Verifying  amazon title
+2021-06-19 19:13:00,260 :INFO : test_signin_launch :Step 5 :Expected titile is found
+2021-06-19 19:13:08,677 :INFO : test_invalidsignin :Testing invalid username entered for sign in
+2021-06-19 19:13:09,248 :INFO : test_invalidsignin :Step 1 : Launching the website and Clicking on sign in button
+2021-06-19 19:13:12,034 :INFO : test_invalidsignin :Step 2 :Entering invalid username
+2021-06-19 19:13:13,444 :INFO : test_invalidsignin :Step 3 : Verifying the error message
+2021-06-19 19:17:27,444 :INFO : test_signin_launch :Step 1 :Launching amazon website
+2021-06-19 19:17:27,550 :INFO : test_signin_launch :Step 2 :Verification of  tooltip
+2021-06-19 19:17:27,597 :INFO : test_signin_launch :Step 3 :Tool tip Present
+2021-06-19 19:17:30,735 :INFO : test_signin_launch :step 4 :Verifying  amazon title
+2021-06-19 19:17:30,741 :INFO : test_signin_launch :Step 5 :Expected titile is found
+2021-06-19 19:17:34,828 :INFO : test_invalidsignin :Testing invalid username entered for sign in
+2021-06-19 19:17:35,227 :INFO : test_invalidsignin :Step 1 : Launching the website and Clicking on sign in button
+2021-06-19 19:17:37,890 :INFO : test_invalidsignin :Step 2 :Entering invalid username
+2021-06-19 19:17:38,488 :INFO : test_invalidsignin :Step 3 : Verifying the error message
+2021-06-19 19:20:23,101 :INFO : test_signin_launch :Step 1 :Launching amazon website
+2021-06-19 19:20:23,105 :INFO : test_signin_launch :Step 2 :Verification of  tooltip
+2021-06-19 19:20:23,141 :INFO : test_signin_launch :Step 3 :Tool tip Present
+2021-06-19 19:20:26,123 :INFO : test_signin_launch :step 4 :Verifying  amazon title
+2021-06-19 19:20:26,130 :INFO : test_signin_launch :Step 5 :Expected titile is found
+2021-06-19 19:20:34,300 :INFO : test_invalidsignin :Testing invalid username entered for sign in
+2021-06-19 19:20:34,679 :INFO : test_invalidsignin :Step 1 : Launching the website and Clicking on sign in button
+2021-06-19 19:20:37,589 :INFO : test_invalidsignin :Step 2 :Entering invalid username
+2021-06-19 19:20:38,691 :INFO : test_invalidsignin :Step 3 : Verifying the error message
+2021-06-19 19:21:51,001 :INFO : test_signin_launch :Step 1 :Launching amazon website
+2021-06-19 19:21:51,004 :INFO : test_signin_launch :Step 2 :Verification of  tooltip
+2021-06-19 19:21:51,040 :INFO : test_signin_launch :Step 3 :Tool tip Present
+2021-06-19 19:21:54,760 :INFO : test_signin_launch :step 4 :Verifying  amazon title
+2021-06-19 19:21:54,767 :INFO : test_signin_launch :Step 5 :Expected titile is found
+2021-06-19 19:22:03,577 :INFO : test_invalidsignin :Testing invalid username entered for sign in
+2021-06-19 19:22:03,964 :INFO : test_invalidsignin :Step 1 : Launching the website and Clicking on sign in button
+2021-06-19 19:22:06,686 :INFO : test_invalidsignin :Step 2 :Entering invalid username
+2021-06-19 19:22:07,346 :INFO : test_invalidsignin :Step 3 : Verifying the error message
