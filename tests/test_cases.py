@@ -17,6 +17,7 @@ class TestCases(Baseclass):
     def test_signin_launch(self):
         log=self.getLogger()
         log.info("Step 1 :Launching amazon website")
+        log.info("Step 1.a :Test code")
         land=landing(self.driver)
         log.info("Step 2 :Verification of  tooltip")
         if(land.tooltipv().is_displayed()):
