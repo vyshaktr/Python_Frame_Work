@@ -18,6 +18,7 @@ class TestCases(Baseclass):
         log=self.getLogger()
         log.info("Step 1 :Launching amazon website")
         log.info("Step 1.a :Test code")
+        log.info("Step 1.b :Valid code")
         land=landing(self.driver)
         log.info("Step 2 :Verification of  tooltip")
         if(land.tooltipv().is_displayed()):
